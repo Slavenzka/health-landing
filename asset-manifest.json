@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/health-landing/static/css/main.d4ba35d8.chunk.css",
-    "main.js": "/health-landing/static/js/main.ed77bcb3.chunk.js",
-    "main.js.map": "/health-landing/static/js/main.ed77bcb3.chunk.js.map",
+    "main.css": "/health-landing/static/css/main.dc78a0b4.chunk.css",
+    "main.js": "/health-landing/static/js/main.c8ee84ab.chunk.js",
+    "main.js.map": "/health-landing/static/js/main.c8ee84ab.chunk.js.map",
     "runtime-main.js": "/health-landing/static/js/runtime-main.9f708124.js",
     "runtime-main.js.map": "/health-landing/static/js/runtime-main.9f708124.js.map",
     "static/css/2.00bf4e06.chunk.css": "/health-landing/static/css/2.00bf4e06.chunk.css",
-    "static/js/2.9bb02bb4.chunk.js": "/health-landing/static/js/2.9bb02bb4.chunk.js",
-    "static/js/2.9bb02bb4.chunk.js.map": "/health-landing/static/js/2.9bb02bb4.chunk.js.map",
+    "static/js/2.2eeaa663.chunk.js": "/health-landing/static/js/2.2eeaa663.chunk.js",
+    "static/js/2.2eeaa663.chunk.js.map": "/health-landing/static/js/2.2eeaa663.chunk.js.map",
     "index.html": "/health-landing/index.html",
     "static/css/2.00bf4e06.chunk.css.map": "/health-landing/static/css/2.00bf4e06.chunk.css.map",
-    "static/css/main.d4ba35d8.chunk.css.map": "/health-landing/static/css/main.d4ba35d8.chunk.css.map",
-    "static/js/2.9bb02bb4.chunk.js.LICENSE.txt": "/health-landing/static/js/2.9bb02bb4.chunk.js.LICENSE.txt",
+    "static/css/main.dc78a0b4.chunk.css.map": "/health-landing/static/css/main.dc78a0b4.chunk.css.map",
+    "static/js/2.2eeaa663.chunk.js.LICENSE.txt": "/health-landing/static/js/2.2eeaa663.chunk.js.LICENSE.txt",
     "static/media/common.scss": "/health-landing/static/media/Rubik-SemiBold.9c329416.woff2",
+    "static/media/Banner.module.scss": "/health-landing/static/media/Shadow.5aaf94b5.png",
     "static/media/actsii.32e9a463.mp4": "/health-landing/static/media/actsii.32e9a463.mp4",
     "static/media/cat.b59a252a.png": "/health-landing/static/media/cat.b59a252a.png",
     "static/media/doki.a495a8fb.mp4": "/health-landing/static/media/doki.a495a8fb.mp4",
     "static/media/kontakti.50425894.mp4": "/health-landing/static/media/kontakti.50425894.mp4",
     "static/media/kviz.bf49d0dd.mp4": "/health-landing/static/media/kviz.bf49d0dd.mp4",
+    "static/media/main.17db9a1a.mp4": "/health-landing/static/media/main.17db9a1a.mp4",
     "static/media/mediacenter.f509dac3.mp4": "/health-landing/static/media/mediacenter.f509dac3.mp4",
     "static/media/otzivi.d0e006a8.mp4": "/health-landing/static/media/otzivi.d0e006a8.mp4",
     "static/media/ContentSlider.module.scss": "/health-landing/static/media/slider_template.e4ffb39e.png",
@@ -26,14 +28,14 @@
     "static/media/team-3.675e8655.png": "/health-landing/static/media/team-3.675e8655.png",
     "static/media/team-4.c15f2c64.png": "/health-landing/static/media/team-4.c15f2c64.png",
     "static/media/team-5.1a39cf96.png": "/health-landing/static/media/team-5.1a39cf96.png",
-    "static/media/uslugi.cc3ee0a3.mp4": "/health-landing/static/media/uslugi.cc3ee0a3.mp4",
+    "static/media/uslugi.7254b1ac.mp4": "/health-landing/static/media/uslugi.7254b1ac.mp4",
     "static/media/vrachi.5f4ff4eb.mp4": "/health-landing/static/media/vrachi.5f4ff4eb.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.9f708124.js",
     "static/css/2.00bf4e06.chunk.css",
-    "static/js/2.9bb02bb4.chunk.js",
-    "static/css/main.d4ba35d8.chunk.css",
-    "static/js/main.ed77bcb3.chunk.js"
+    "static/js/2.2eeaa663.chunk.js",
+    "static/css/main.dc78a0b4.chunk.css",
+    "static/js/main.c8ee84ab.chunk.js"
   ]
 }
