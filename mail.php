@@ -6,7 +6,7 @@ if (filter_var($_POST['phone'])) {
         $userPhone = $_POST['phone'];
         $messageSubject = 'Новая заявка с лэндинга "Здоровая реклама"';
 
-        $to = "southern.resorts@gmail.com";
+        $to = "new@zdad.ru";
         $body = "Получена новая заявка!";
         $body .= "От кого: ".$userName. "\r\n";
         $body .= "Контактный телефон: ".$userPhone. "\r\n";
